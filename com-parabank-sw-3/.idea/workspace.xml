@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c9dc3d5-0388-4b48-a808-938de89f52e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/parabank/customlisteners/CustomListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parabank/driverfactory/ManageDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parabank/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parabank/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parabank/pages/RegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parabank/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parabank/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/parabank/browserfactory/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/parabank/testsuite/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/parabank/testsuite/RegisterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/parabanktest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/regression.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/sanity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/smoke.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/testdata/ExcelData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/testdata/ExcelRead.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/testdata/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-tutorialsninja-sw-3/src/main/java/sw_tutorialsninja_com/customlisteners/CustomListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-tutorialsninja-sw-3/src/main/java/sw_tutorialsninja_com/driverfactory/ManageDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-tutorialsninja-sw-3/src/main/java/sw_tutorialsninja_com/pages/ProductPageandOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-tutorialsninja-sw-3/src/main/java/sw_tutorialsninja_com/pages/TopMenuPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-tutorialsninja-sw-3/src/main/java/sw_tutorialsninja_com/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-tutorialsninja-sw-3/src/main/java/sw_tutorialsninja_com/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-tutorialsninja-sw-3/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-tutorialsninja-sw-3/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-tutorialsninja-sw-3/src/test/java/resources/runners/VisaConfirmationTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-tutorialsninja-sw-3/src/test/java/resources/testdata/ExcelData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-tutorialsninja-sw-3/src/test/java/resources/testdata/ExcelRead.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-tutorialsninja-sw-3/src/test/java/resources/testdata/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-tutorialsninja-sw-3/src/test/java/sw_tutorialsninja_com/browserfactory/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-tutorialsninja-sw-3/src/test/java/sw_tutorialsninja_com/testsuite/DesktopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-tutorialsninja-sw-3/src/test/java/sw_tutorialsninja_com/testsuite/LaptopsAndNotebooksTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-tutorialsninja-sw-3/src/test/java/sw_tutorialsninja_com/testsuite/MenuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/src/main/java/uklibrary/customlisteners/CustomListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/src/main/java/uklibrary/driverfactory/ManageDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/src/main/java/uklibrary/excelutility/ExcelRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/src/main/java/uklibrary/excelutility/ExcelUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/src/main/java/uklibrary/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/src/main/java/uklibrary/pages/ResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/src/main/java/uklibrary/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/src/main/java/uklibrary/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/src/test/java/resources/runners/jobsearch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/src/test/java/resources/testdata/ExcelData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/src/test/java/resources/testdata/ExcelRead.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/src/test/java/resources/testdata/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/src/test/java/uklibrary/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cv-library-uk/src/test/java/uklibrary/testsuite/JobSearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/check_visa_office_home/customlisteners/CustomListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/check_visa_office_home/driverfactory/ManageDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/check_visa_office_home/excelutility/ExcelRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/check_visa_office_home/excelutility/ExcelUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/check_visa_office_home/pages/DurationOfStayPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/check_visa_office_home/pages/FamilyImmigrationStatusPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/check_visa_office_home/pages/ReasonForTravelPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/check_visa_office_home/pages/ResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/check_visa_office_home/pages/SelectNationalityPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/check_visa_office_home/pages/StartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/check_visa_office_home/pages/WorkTypePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/check_visa_office_home/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/check_visa_office_home/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/check_visa_office_home/browserfactory/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/check_visa_office_home/testsuite/VisaConfirmationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/resources/runners/VisaConfirmationTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/resources/testdata/ExcelData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/resources/testdata/ExcelRead.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/resources/testdata/TestData.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2RtB7tpTzXHklpbip76JZmuBy8b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\HOMEWORK\Week_14\com-parabank-sw-3\src\test\java" />
+      <recent name="C:\HOMEWORK\Week_14\com-parabank-sw-3\src\test\java\parabank" />
+      <recent name="C:\HOMEWORK\Week_14\com-parabank-sw-3\src\main\java\parabank" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="C:/HOMEWORK/Week_14/com-parabank-sw-3/src/test/java/resources/runners/parabanktest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com-parabank-sw-3" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/resources/runners/parabanktest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/HOMEWORK/Week_14/com-parabank-sw-3/src/test/java/resources/runners/parabanktest.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c9dc3d5-0388-4b48-a808-938de89f52e0" name="Default Changelist" comment="" />
+      <created>1688059336483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688059336483</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

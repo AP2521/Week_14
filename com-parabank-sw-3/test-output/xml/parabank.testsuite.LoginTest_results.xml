@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Parabank Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.168">
+  <properties />
+  
+  
+            <testcase name="userShouldLogOutSuccessfully" time="1.180" classname="parabank.testsuite.LoginTest" />
+                <testcase name="userShouldLoginSuccessfullyWithValidCredentials" time="0.543" classname="parabank.testsuite.LoginTest" />
+                <testcase name="verifyTheErrorMessage" time="0.445" classname="parabank.testsuite.LoginTest" />
+      
+</testsuite>

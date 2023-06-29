@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="testsuite" verbose="1">
+    <listeners>
+        <listener class-name="parabank.customlisteners.CustomListeners"></listener>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    </listeners>
+
+    <test name="Parabank Test">
+        <classes>
+            <class name="parabank.testsuite.RegisterTest"></class>
+            <class name="parabank.testsuite.LoginTest"></class>
+        </classes>
+    </test>
+</suite>
