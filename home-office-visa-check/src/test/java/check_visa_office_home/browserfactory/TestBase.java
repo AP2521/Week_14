@@ -1,9 +1,9 @@
 package check_visa_office_home.browserfactory;
 
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeMethod;
 import check_visa_office_home.propertyreader.PropertyReader;
 import check_visa_office_home.utility.Utility;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeMethod;
 
 /**
  * Created by Bhavesh
