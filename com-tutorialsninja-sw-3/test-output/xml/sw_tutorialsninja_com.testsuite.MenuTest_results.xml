@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TutorialNinja Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.709">
+  <properties />
+  
+  
+            <testcase name="menuTest" time="2.709" classname="sw_tutorialsninja_com.testsuite.MenuTest" />
+      
+</testsuite>
